@@ -1,0 +1,88 @@
+body{
+    margin: 0;
+    padding :10px;
+    align-items: center;
+    text-align: center;
+    background-image: url('back.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* filter: contrast(180%); */
+}
+.wish{
+    color: white;
+}
+h1{
+    font-size: 60px;
+}
+.txt{
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+.circle{
+    border-radius: 50%;
+    height:50px;
+    width:50px;
+    border: 8px solid white;
+    margin: auto;
+}
+.connection{
+    margin-top: 0;
+    margin-bottom: 0;
+    width: 8px;
+    height: 60px;
+    background-color: white;
+    margin: auto;
+}
+.rectangle{
+    width:260px;
+    height:480px;
+    border: 7px solid white;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 0;
+    background-color: white;
+}
+.square{
+    padding: 20px;
+    width:260px;
+    height:260px;
+    border: 7px solid white;
+    border-radius: 10px;
+    margin: auto;
+    /* margin-top: ; */
+    margin-bottom: 0;
+    padding: 0;
+    background-color: white;
+}
+
+.imgElement{
+    height: 78%;
+    width: 100%;
+    border-radius: 4px 4px 0px 0px;
+    margin: 0;
+}
+.paraElement{
+    background-color: white;
+    color: black;
+    margin-top: 0;
+    height: 22%;
+    width: 100%;
+    border-radius: 0px 0px 10px 10px;
+
+}
+.para{
+    padding: 10px;
+    background-color: white;
+    color: black;
+    margin-top: 40px;
+    /* font-size: 20px; */
+    /* height: 22%; */
+    /* width: 100%; */
+    border-radius: 0px 0px 10px 10px;
+
+}
