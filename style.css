@@ -61,7 +61,7 @@ h1{
 }
 
 .imgElement{
-    height: 78%;
+    height: 75%;
     width: 100%;
     border-radius: 4px 4px 0px 0px;
     margin: 0;
@@ -70,7 +70,7 @@ h1{
     background-color: white;
     color: black;
     margin-top: 0;
-    height: 22%;
+    height: 25%;
     width: 100%;
     border-radius: 0px 0px 10px 10px;
 
